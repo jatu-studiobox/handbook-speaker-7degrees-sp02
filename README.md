@@ -13,7 +13,7 @@
 
 #### รายละเอียดและหน้าที่ของแต่ละปุ่ม
 
-<img width="400" height="400" alt="speaker btns" src="https://github.com/user-attachments/assets/d0d7f010-8a68-4a43-a718-3972f859a4cf" />
+<img width="400" height="400" alt="speaker btns" src="https://github.com/user-attachments/assets/8debb0a8-318b-4255-930a-e84f8f5330a0" />
 
 
 ปุ่มกดด้านบนของลำโพง 7 Degrees SP-02 มีทั้งหมด 4 ปุ่มหลัก เรียงแถวกัน โดยสามารถฟัง "เสียงสัญญาณแจ้งเตือน" (Voice Prompt) หรือเสียงเอฟเฟกต์ตอนกด เพื่อรับรู้ว่าตัวเครื่องกำลังทำงานในโหมดใดอยู่
